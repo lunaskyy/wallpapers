@@ -3,7 +3,8 @@
 It's pretty much in the repo name/title, it's just wallpapers lol.
 
 - Organised by categories
-	- Games/Anime
+	- Games
+	- Anime
 	- Landscapes/Photography
 	- Patterns
 	- Colours (Pantone Colours, etc.)
