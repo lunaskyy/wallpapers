@@ -13,9 +13,9 @@ This also includes wallpapers created using AI services/models.
 lunaskyy/wallpapers/
 ├─ anime/
 │  ├─ README.md
-│ ├ keqing_fireworks/
-│ │  ├─ keqing_fireworks.png
-│ │ ├─README.md <-- Image attribution in this file
+│  ├ keqing_fireworks/
+│  │  ├─ keqing_fireworks.png
+│  │  ├─ README.md <-- Image attribution in this file
 ```
 
 #### Attribution Example:
