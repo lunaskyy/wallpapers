@@ -12,10 +12,10 @@ This also includes wallpapers created using AI services/models.
 ```
 lunaskyy/wallpapers/
 ├─ anime/
-│  ├─ README.md
-│  ├ keqing_fireworks/
-│  │  ├─ keqing_fireworks.png
-│  │  ├─ README.md <-- Image attribution in this file
+│  ├─ README.md <-- Index of all Wallpapers in category
+│  ├─ keqing_fireworks/ <-- Folder (Containing Image and README.md)
+│  │  ├─ keqing_fireworks.png <-- Image (.png, etc.)
+│  │  ├─ README.md <-- Description and attribution in this file
 ```
 
 #### Attribution Example:
